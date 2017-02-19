@@ -7,22 +7,23 @@ Our key project, composed of a Virtual Machine environment to allow for easier A
 
 ### Download Links (5.1 GB OVA File)
 
-1. [Google Drive](http://bit.ly/AndroidTamer4-GD) (this link might go down if downloaded more then 500 times a day)
+1. [Google Drive](http://bit.ly/AndroidTamer4-GD) (This link might go down if downloaded more then 500 times a day)
 2. [Sourceforge](http://bit.ly/AndroidTamer4-SF)
 
-**Checksums**
+#### Checksums
 
-MD5 (AndroidTamer4.ova) = 98ced8bfc3c8d46a0600b377569dc722
-SHA1 (AndroidTamer4.ova) = 3c3b6b053135456938d749d8536da4dbf1ba1a16
-SHA256 (AndroidTamer4.ova) = e4f823baee3565b0871ec0865d1da0aad1f058665b7a212a326d85110a817164
+- **MD5 (AndroidTamer4.ova)** : `98ced8bfc3c8d46a0600b377569dc722`
+- **SHA1 (AndroidTamer4.ova)** : `3c3b6b053135456938d749d8536da4dbf1ba1a16`
+- **SHA256 (AndroidTamer4.ova)** : `e4f823baee3565b0871ec0865d1da0aad1f058665b7a212a326d85110a817164`
 
 ### VMWare Player Changes
 
-The Virtual Machine is created and tested 100% on VirtualBox however it should work seemlessly on VmWare player / Fusion / workstation with following additional steps
+The Virtual Machine is created and tested 100% on VirtualBox however it should work seemlessly on VMware player / Fusion / workstation with following additional steps
 
 ```
 sudo apt-get install open-vm-tools-desktop
 ```
+
 Full Guide: https://tools.androidtamer.com/#importing-in-vmware-player-fusion-workstation
 
 ## AndroidTamer Debian Repository
