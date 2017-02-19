@@ -53,6 +53,8 @@ Documentation around various tools in use @ Androidtamer
 
 http://tools.androidtamer.com/
 
+Contribute via Github : https://github.com/AndroidTamer/Tools
+
 
 ## AndroidTamer KnowledgeBase
 
@@ -61,6 +63,8 @@ Centralized place to document larger stuff which can't be written out as a tool 
 https://kb.androidtamer.com/android_security_enhancement/
 
 https://kb.androidtamer.com/Device_Security_Patch_tracker/
+
+Contribute via Github: https://github.com/AndroidTamer/KnowledgeBase
 
 
 ## AndroidTamer APK Repository
