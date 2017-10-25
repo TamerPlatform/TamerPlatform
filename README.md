@@ -7,8 +7,8 @@ Our key project, composed of a Virtual Machine environment to allow for easier A
 
 ### Download Links (5.1 GB OVA File)
 
-1. [Google Drive](http://bit.ly/AndroidTamer4-GD) (This link might go down if downloaded more then 500 times a day)
-2. [Sourceforge](http://bit.ly/AndroidTamer4-SF)
+1) Google Drive: [https://bit.ly/AndroidTamer4-GD](http://bit.ly/AndroidTamer4-GD) (this link might go down if downloaded more then 500 times a day) [Direct Link](https://docs.google.com/uc?id=0B8yPzNmXhURwZllmX3NLQVJkTXc&export=download)
+2) Sourceforge:  [https://bit.ly/AndroidTamer4-SF](http://bit.ly/AndroidTamer4-SF )  and [Direct Link](http://downloads.sourceforge.net/project/androidtamer/AndroidTamerv4/AndroidTamer4.ova)
 
 #### Checksums
 
