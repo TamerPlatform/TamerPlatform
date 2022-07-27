@@ -1,7 +1,7 @@
-# AndroidTamer Master Readme
+# TamerPlatform Master Readme
 
 
-## AndroidTamer Linux Distro
+## TamerPlatform Linux Distro
 
 Our key project, composed of a Virtual Machine environment to allow for easier Android Security or Development work.
 
@@ -26,9 +26,9 @@ sudo apt-get install open-vm-tools-desktop
 
 Full Guide: https://tools.androidtamer.com/#importing-in-vmware-player-fusion-workstation
 
-## AndroidTamer Debian Repository
+## TamerPlatform Debian Repository
 
-Available at https://repo.androidtamer.com
+Available at https://repo.TamerPlatform.com
 Hosts a debian 8 / kali (hypothetically) compatible repository to suppliment the Android Specific tools in the distributions.
 
 VirtualMachine config used to package products : https://github.com/AndroidTamer/Packaging_Tools
@@ -38,51 +38,49 @@ New Additionals / Bug Requests Trackers : https://github.com/AndroidTamer/Tools_
 Build Scripts for packaged tools: https://github.com/AndroidTamer/Packaging_Tools/tree/master/Build
 
 **Configure your system**
-```
-echo "deb https://repo.androidtamer.com Tamer4 main" >> /etc/apt/sources.list.d/repo_androidtamer_com.list
-```
-Full Guide here : https://tools.androidtamer.com/General/repo_configure/
+~~~echo "deb https://repo.androidtamer.com Tamer4 main" >> /etc/apt/sources.list.d/repo_androidtamer_com.list~~~
+Full Guide here : https://tools.TamerPlatform.com/General/repo_configure/
 
-Repository GPG Key: https://androidtamer.com/repo.gpg.key
+Repository GPG Key: https://TamerPlatform.com/repo.gpg.key
 
-Full List of Packages: https://repo.androidtamer.com/packagelist.html
+Full List of Packages: https://repo.TamerPlatform.com/packagelist.html
 
 
-## AndroidTamer Tools Listing
+## TamerPlatform Tools Listing
 
 Documentation around various tools in use @ Androidtamer
 
-http://tools.androidtamer.com/
+http://tools.TamerPlatform.com/
 
-Contribute via Github : https://github.com/AndroidTamer/Tools
+Contribute via Github : https://github.com/TamerPlatform/Tools
 
 
-## AndroidTamer KnowledgeBase
+## TamerPlatform KnowledgeBase
 
 Centralized place to document larger stuff which can't be written out as a tool or writeup
 
-https://kb.androidtamer.com/android_security_enhancement/
+https://kb.TamerPlatform.com/android_security_enhancement/
 
-https://kb.androidtamer.com/Device_Security_Patch_tracker/
+https://kb.TamerPlatform.com/Device_Security_Patch_tracker/
 
-Contribute via Github: https://github.com/AndroidTamer/KnowledgeBase
+Contribute via Github: https://github.com/TamerPlatform/KnowledgeBase
 
 
 ## AndroidTamer APK Repository
 
 Work In Progress
 
-Add request for APK's be added : https://github.com/AndroidTamer/APK_Repository/issues
+Add request for APK's be added : https://github.com/TamerPlatform/APK_Repository/issues
 
-APK Building setup: https://github.com/AndroidTamer/Packaging_Tools (Modifications to vagrant file not yet public)
+APK Building setup: https://github.com/TamerPlatform/Packaging_Tools (Modifications to vagrant file not yet public)
 
 ## AndroidTamer Emulator Setup
 
 Work In Progress
 
-Issue Repository : https://github.com/AndroidTamer/x86_arm_custom_emulator/issues
+Issue Repository : https://github.com/TamerPlatform/x86_arm_custom_emulator/issues
 
-This will only track issues related to Emulator setup and not the APK's to be included for APK's use https://github.com/AndroidTamer/APK_Repository/issues
+This will only track issues related to Emulator setup and not the APK's to be included for APK's use https://github.com/TamerPlatform/APK_Repository/issues
 
 For Example: su binary related changes to be addressed here but a SSL pinning bypass APK / Xposed Module to be listed in APK Repository
 
