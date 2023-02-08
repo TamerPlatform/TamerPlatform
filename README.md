@@ -5,10 +5,19 @@
 
 Our key project, composed of a Virtual Machine environment to allow for easier Android Security or Development work.
 
+
+Tamer 4 is End of Life and Tamer 5 is under construction: Details will be out soon
+
+
+
+
+# OLD CONTENT
+
+
 ### Download Links (5.1 GB OVA File)
 
-1) Google Drive: [https://bit.ly/AndroidTamer4-GD](http://bit.ly/AndroidTamer4-GD) (this link might go down if downloaded more then 500 times a day) [Direct Link](https://docs.google.com/uc?id=0B8yPzNmXhURwZllmX3NLQVJkTXc&export=download)
-2) Sourceforge:  [https://bit.ly/AndroidTamer4-SF](http://bit.ly/AndroidTamer4-SF )  and [Direct Link](http://downloads.sourceforge.net/project/androidtamer/AndroidTamerv4/AndroidTamer4.ova)
+1) Google Drive: ~~[https://bit.ly/AndroidTamer4-GD](http://bit.ly/AndroidTamer4-GD) (this link might go down if downloaded more then 500 times a day) [Direct Link](https://docs.google.com/uc?id=0B8yPzNmXhURwZllmX3NLQVJkTXc&export=download)~~
+2) Sourceforge:  ~~[https://bit.ly/AndroidTamer4-SF](http://bit.ly/AndroidTamer4-SF )  and [Direct Link](http://downloads.sourceforge.net/project/androidtamer/AndroidTamerv4/AndroidTamer4.ova)~~
 
 #### Checksums
 
